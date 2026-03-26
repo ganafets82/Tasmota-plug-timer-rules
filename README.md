@@ -13,6 +13,7 @@ Tasmota plug Timer Rules and auto off for 2kw Car charger (and other things)
 # Timer: Short button presses activates Timer and/or adds 60h
 
 SetOption73 1
+SetOption65 1
 SetOption32 10
 ButtonTopic 0
 
